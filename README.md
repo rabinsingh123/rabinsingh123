@@ -1,6 +1,10 @@
-# Data Scientist
+# Aspiring Quantitative Analyst/ Data Scientist
 
 ### Education
+St. Joseph’s University, New York City, NY 				                                                                              Expected May 2025  
+B.S. Mathematics and Computer Science | GPA 3.8 
+Relevant Coursework  - Algorithms and Data Structures, Cryptography, R, Advanced Programming, Advanced Database Design, Data Science,  Calculus III, Linear Algebra, Differential Equations, Probability and Statistics
+
 
 ### Work Experience
 Web and Data Analytics Intern | Nepal Tea Collective New York City, NY                                                           May 2022 – June 2023  

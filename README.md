@@ -1,6 +1,6 @@
 # Aspiring Quantitative Analyst/ Data Scientist
 
-646-226-6928 | rabinsingh540@gmail.com | [Rabin Singh](linkedin.com/in/rabinsingh143/) | [GitHub](https://github.com/rabinsingh123) 
+646-226-6928 | rabinsingh540@gmail.com | [Rabin Singh](https://linkedin.com/in/rabinsingh143/) | [GitHub](https://github.com/rabinsingh123) 
 
 ### Education
 St. Joseph’s University, New York City, NY 				                                                                                  Expected May 2025  

@@ -42,10 +42,10 @@ Hospital Appointment Scheduling Application                                     
 
 
 ### SKILLS/ INTERESTS 
-
-Languages and Tools: Python | R | Java | Visual Basic | C# | JavaScript/HTML5/CSS3 | SQL | Git | Jira | ServiceNow Libraries and Frameworks: Tidyverse | TensorFlow | NumPy | .NET | SQLAlchemy | Pandas | Matplotlib | Seaborn Interests : Blockchain | Web3 | Informed Investing | Sustainability | Quantitative Research | AI | Predictive Modeling 
-Honors: Citi Quantitative Analysis Fellow | Apple Pathways Scholar | Young Entrepreneur Award |  America Needs You Fellow | Ladders for Leaders Fellow | Circl Leadership | Codepath’s Advanced Programming Fellow | SURF Fellow
-
+Languages and Tools: Python, R, Java, Visual Basic, C#, JavaScript/HTML5/CSS3, SQL, Git, Jira, ServiceNow 
+Libraries and Frameworks: Tidyverse, TensorFlow, NumPy, .NET, SQLAlchemy, Pandas, Matplotlib, Seaborn 
+Interests: Blockchain, Web3, Informed Investing, Sustainability, Quantitative Research, AI, Predictive Modeling
+Honors: Citi Quantitative Analysis Fellow, Apple Pathways Scholar, Young Entrepreneur Award, America Needs You Fellow, Ladders for Leaders Fellow, Circl Leadership, Codepath’s Advanced Programming Fellow, Summer Undergraduate Research Fellow, Esse Non videri Scholar
 
 
 

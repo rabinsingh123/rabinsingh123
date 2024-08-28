@@ -3,7 +3,7 @@
 646-226-6928 | rabinsingh540@gmail.com | [Rabin Singh](linkedin.com/in/rabinsingh143/) | [GitHub](https://github.com/rabinsingh123) 
 
 ### Education
-St. Joseph’s University, New York City, NY 				                                                                              Expected May 2025  
+St. Joseph’s University, New York City, NY 				                                                                                  Expected May 2025  
 B.S. Mathematics and Computer Science | GPA 3.8 
 Relevant Coursework  - Algorithms and Data Structures, Cryptography, R, Advanced Programming, Advanced Database Design, Data Science,  Calculus III, Linear Algebra, Differential Equations, Probability and Statistics
 
@@ -28,14 +28,14 @@ Revitalized the firm’s website by using Shopify Liquid to implement dynamic co
 
 
 ### Projects
-Microsoft Imagine Cup 									                                                                                         Oct 2023 – Present 
+Microsoft Imagine Cup 									                                                                                                   Oct 2023 – Present 
 Led a team through Microsoft’s global tech start-up competition and shaped the business model for “The Intelligent AI-dvisor”, an AI companion to support high school students' academic and professional needs
 Fine-tuned ChatGPT API to improve the personalization of the responses generated using TensorFlow 
 
-STO Trading Competition 										                                                                                     Oct 2023
+STO Trading Competition 										                                                                                                Oct 2023
  Earned 2nd place representing SJNY in the university trading challenge hosted by the Social Trade  Organization, showcasing exceptional market insights and strategic investment decision-making
 
-Hospital Appointment Scheduling Application                                                                                      Sep 2023 – Jan 2024 
+Hospital Appointment Scheduling Application                                                                                        Sep 2023 – Jan 2024 
 - Created an appointment scheduling app with role-based interfaces that syncs across portals to prevent scheduling conflicts.
 - Implemented Java Swing GUI components and JDBC classes for CRUD operations, user authentication, and role-based authorization, resulting in seamless integration with a MySQL database managed by XAMPP.
 - Applied the Model-View-Controller (MVC) design pattern and modular programming to enhance code quality, maintainability, and development efficiency.

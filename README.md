@@ -17,7 +17,7 @@ Relevant Coursework  - Algorithms and Data Structures, Cryptography, R, Advanced
  - Implement, maintain, and debug trading algorithms ensuring 99.9% uptime and prompt error resolution
  - Analyze historical big data to predict volatility in SPY, $SPX, and QQQ options
 
- SURFResearcher– DeFi Risk Modelling | St. Joseph’s University, New York City, NY                                                   Apr 2024– Present
+ SURF Researcher– DeFi Risk Modelling | St. Joseph’s University, New York City, NY                                                  Apr 2024– Present
  - Developadata-driven risk-reward framework for DeFi protocols analyzing CoinGecko API data to help users
  identify high-potential projects while avoiding scams and pump-and-dump schemes
  - Documentprocesses in Jupyter Notebooks with LaTeX reports, with data visualization in Seaborn

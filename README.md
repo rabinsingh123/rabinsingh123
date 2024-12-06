@@ -16,9 +16,6 @@ IT Intern | NYC Housing Authority, New York City, NY                            
 - Utilized ServiceNow to implement ITILv4 principles, reducing incident response times by 15% through optimized  ticket handling and workflow automation  
 - Developed documentation for team productivity, ensuring streamlined operations and faster problem resolution 
 
-Sales Representative | Freedom Pros, Columbus, OH                                                                                May 2024 – June 2024 
-- Achieved 30 monthly sales and recognition as the top sales representative nationwide for June among 2000+ peers
-
 Mathematics Interpreter | National Museum of Mathematics New York City, NY                                                       June 2023 – Sep 2023 
 - Investigated fractal and Fibonacci sequences to incorporate into exhibit content and educational programming 
 - Simplified complex math concepts for diverse audiences, boosting visitor understanding and enjoyment
